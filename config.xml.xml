@@ -26,5 +26,5 @@ Jose Heriberto Bautista Ramirez
 
 <!-- Colocar icono app -->
 
-<icono src="res/android/mdpi.png" />
+<icon src="res/android/mdpi.png" />
 </widget>
